@@ -1,0 +1,5 @@
+# part-1-logs (sample)
+# 2024/04/17 10:05:00 csvserver2 started
+# 2024/04/17 10:05:01 reading data from /csvserver2/inputdata
+# 2024/04/17 10:05:01 7 records read successfully
+# 2024/04/17 10:05:01 server started at :9300
